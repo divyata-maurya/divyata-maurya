@@ -1,4 +1,4 @@
-![logo](https://github.com/divyata-maurya/divyata-maurya/blob/main/Banner.png)
+![logo](https://github.com/divyata-maurya/divyata-maurya/blob/main/BannerImage.png)
 <h1 align="center">Hi 👋, I'm Divyata Maurya</h1>
 <h3 align="center">A passionate Data Scientist & AI Enthusiast from India</h3>
 
